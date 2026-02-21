@@ -210,5 +210,4 @@ var courses=[
         thumbnail:'https://asifsirpacemaker.com/media/course/thumbnail/Copy_of_English_Solution_-_Short_Video_20251113_104351_0000.png',
         content:[]
     }
-
 ];
