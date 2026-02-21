@@ -1,7 +1,7 @@
 var courses=[
     {
         id:'12001',
-        title:'HSC 26 Pre medical course!!!',
+        title:'HSC 26 Pre medical course!!! Bozz',
         description:'Pre medical course for HSC 26 | 8 Subjects | 50+ Books | Daily & Weekly Exams',
         thumbnail:'https://asifsirpacemaker.com/media/course/thumbnail/WhatsApp_Image_2025-12-30_at_1.09.17_PM.jpeg',
         content:[
@@ -211,5 +211,6 @@ var courses=[
         content:[]
     }
 ];
+
 
 
