@@ -7,7 +7,7 @@ var courses=[
         content:[
             {
                 type:'folder',
-                title:'Botany',
+                title:'Biology 1st Paper',
                 description:'All 12 chapters of botany by Asif Jafar sir.',
                 thumbnail:'css/assets/thumbnail.png',
                 content:[
