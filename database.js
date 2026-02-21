@@ -102,6 +102,24 @@ var courses=[
                                 ]
                             }
                         ]
+                    },
+                    {
+                        type:'folder',
+                        title:'Chapter 2',
+                        description:'Static Electricity',
+                        thumbnail:'css/assets/thumbnail.png',
+                        content:[
+                            {
+                                type:'video',
+                                title:'Lecture 1',
+                                description:'',
+                                author:'Abid Jafar',
+                                date:'21.02.2026',
+                                thumbnail:'css/assets/thumbnail.png',
+                                videoSrc:'https://www.youtube.com/embed/0XWtVP4tyaQ?autoplay=0',
+                                materials:[]
+                            }
+                        ]
                     }
                 ]
             },
@@ -192,4 +210,5 @@ var courses=[
         thumbnail:'https://asifsirpacemaker.com/media/course/thumbnail/Copy_of_English_Solution_-_Short_Video_20251113_104351_0000.png',
         content:[]
     }
+
 ];
