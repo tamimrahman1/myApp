@@ -21,7 +21,7 @@ var courses=[
                                 type:'video',
                                 title:'Lecture 1',
                                 description:'',
-                                author:'Asif Jafar',
+                                author:'Chodon Sir Jafar',
                                 date:'12.02.2026',
                                 thumbnail:'css/assets/thumbnail.png',
                                 videoSrc:'https://www.youtube.com/embed/RX6e0uPTiN4?autoplay=0',
