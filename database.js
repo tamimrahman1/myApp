@@ -191,8 +191,8 @@ var courses=[
     },
     {
         id:'12001',
-        title:'HSC 26 Botany full',
-        description:'bozz cath is a very good teacher',
+        title:'HSC 27 Cycle 3',
+        description:'HSC 27 Cycle 3 by Asif Jafar Sir',
         thumbnail:'https://asifsirpacemaker.com/media/course/thumbnail/Green_and_black_Brush_Strokes_Creative_YouTube_Thumbnail_20251025_191340_0000.png',
         content:[]
     },
@@ -211,6 +211,7 @@ var courses=[
         content:[]
     }
 ];
+
 
 
 
