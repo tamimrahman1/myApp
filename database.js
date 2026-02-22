@@ -198,8 +198,8 @@ var courses=[
     },
     {
         id:'12001',
-        title:'HSC 26 Botany full',
-        description:'bozz cath is a very good teacher',
+        title:'HSC 26 2nd Year Cycle 1',
+        description:'Botany Chapter 8 & Zoology Chapter 7',
         thumbnail:'https://asifsirpacemaker.com/media/course/thumbnail/Green_and_black_Brush_Strokes_Creative_YouTube_Thumbnail_20250727_23463_GGh24WX.png',
         content:[]
     },
