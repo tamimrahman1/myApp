@@ -43,7 +43,7 @@ var courses=[
                                 materials:[
                                     {
                                         label:'Lecture Sheet',
-                                        src:'https://drive.google.com/file/d/1jhUnqXUEj8LdhgsxVQWquSzZkND8AwLC/view'
+                                        src:'https://drive.google.com/file/d/1jhUnqXUEj8LdhgsxVQWquSzZkND8AwLC/preview'
                                     }
                                 ]
                             }
@@ -73,6 +73,13 @@ var courses=[
                         ]
                     }
                 ]
+            },
+            {
+                type:'folder',
+                title:'Biology 2nd Paper',
+                description:'All 12 chapters of zoology by Asif Jafar sir.',
+                thumbnail:'css/assets/thumbnail.png',
+                content:[]
             },
             {
                 type:'folder',
