@@ -79,7 +79,26 @@ var courses=[
                 title:'Biology 2nd Paper',
                 description:'All 12 chapters of zoology by Asif Jafar sir.',
                 thumbnail:'css/assets/thumbnail.png',
-                content:[]
+                content:[
+                    {
+                        type:'folder',
+                        title:'Chapter 1',
+                        description:'Animal Diversity & Classification',
+                        thumbnail:'css/assets/thumbnail.png',
+                        content:[
+                            {
+                                type:'video',
+                                title:'Lecture 1',
+                                description:'',
+                                author:'Asif Jafar',
+                                date:'23.02.2026',
+                                thumbnail:'css/assets/thumbnail.png',
+                                videoSrc:'https://www.youtube.com/embed/p_9gmkIbKQw?autoplay=0&controls=0&modestbranding=1&loop=1&playlist=p_9gmkIbKQw&playsinline=1&rel=0&showinfo=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fasifsirpacemaker.com&widgetid=1&forigin=https%3A%2F%2Fasifsirpacemaker.com%2Fcourse%2Fmedicalbatch2026%2Fclass-link%2F24799&aoriginsup=1&gporigin=https%3A%2F%2Fasifsirpacemaker.com%2Fcourse%2Fmedicalbatch2026%2F818&vf=5',
+                                materials:[]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 type:'folder',
