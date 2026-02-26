@@ -169,6 +169,21 @@ var courses=[
             },
             {
                 type:'folder',
+                title:'Chemistry 1st Paper',
+                description:'All 5 chapters of chemistry 1st paper.',
+                thumbnail:'css/assets/thumbnail.png',
+                content:[
+                    {
+                        type:'folder',
+                        title:'Chapter 2',
+                        description:'Qualitative Chemistry',
+                        thumbnail:'css/assets/thumbnail.png',
+                        content:[]
+                    }
+                ]
+            },
+            {
+                type:'folder',
                 title:'Chemistry 2nd Paper',
                 description:'All 5 chapters of chemistry 2nd paper.',
                 thumbnail:'css/assets/thumbnail.png',
