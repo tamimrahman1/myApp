@@ -107,7 +107,7 @@ var courses=[
                             {
                                 type:'video',
                                 title:'Lecture 1',
-                                description:'',
+                                description:'Hydra full | Grasshopper Part 1',
                                 author:'Asif Jafar',
                                 date:'25.02.2026',
                                 thumbnail:'css/assets/thumbnail.png',
