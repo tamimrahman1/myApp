@@ -97,6 +97,24 @@ var courses=[
                                 materials:[]
                             }
                         ]
+                    },
+                    {
+                        type:'folder',
+                        title:'Chapter 2',
+                        description:'Animal Identity | Hydra | Grasshopper | Ruhi Fish',
+                        thumbnail:'css/assets/thumbnail.png',
+                        content:[
+                            {
+                                type:'video',
+                                title:'Lecture 1',
+                                description:'',
+                                author:'Asif Jafar',
+                                date:'25.02.2026',
+                                thumbnail:'css/assets/thumbnail.png',
+                                videoSrc:'https://www.youtube.com/embed/p_9gmkIbKQw?autoplay=0',
+                                materials:[]
+                            }
+                        ]
                     }
                 ]
             },
