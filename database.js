@@ -129,6 +129,12 @@ var courses = [
         ]
       },
       {
+        "title": "Physics 1st Paper",
+        "description": "All 10 chapters of physics 1st paper by Abid Jafar Sir.",
+        "thumbnail": "css/assets/thumbnail.png",
+        "content": []
+      },
+      {
         "type": "folder",
         "title": "Physics 2nd Paper",
         "description": "All 11 chapters of Physics 2nd paper by Abid Jafar sir.",
