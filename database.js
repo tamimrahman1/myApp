@@ -129,6 +129,7 @@ var courses = [
         ]
       },
       {
+        "type": "folder",
         "title": "Physics 1st Paper",
         "description": "All 10 chapters of physics 1st paper by Abid Jafar Sir.",
         "thumbnail": "css/assets/thumbnail.png",
