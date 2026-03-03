@@ -132,7 +132,16 @@ var courses = [
                 "date": "04.02.2026",
                 "thumbnail": "css/assets/thumbnail.png",
                 "videoSrc": "null",
-                "materials": []
+                "materials": [
+                  {
+                    "label": "duck",
+                    "src": "null"
+                  },
+                  {
+                    "label": "bozz",
+                    "src": "null"
+                  }
+                ]
               }
             ]
           }
