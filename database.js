@@ -130,7 +130,7 @@ var courses = [
                 "description": "Ruhi Fish",
                 "author": "Asif Jafar",
                 "date": "04.02.2026",
-                "thumbnail": "css/assets/thumbnail.jpg",
+                "thumbnail": "css/assets/thumbnail.png",
                 "videoSrc": "null",
                 "materials": []
               }
