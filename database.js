@@ -123,16 +123,6 @@ var courses = [
                 "thumbnail": "css/assets/thumbnail.png",
                 "videoSrc": "https://www.youtube.com/embed/is1kPPY-ixU?autoplay=0",
                 "materials": []
-              },
-              {
-                "type": "video",
-                "title": "Lecture 3",
-                "description": "Ruhi Fish",
-                "author": "Asif Jafar",
-                "date": "04.02.2026",
-                "thumbnail": "css/assets/thumbnail.png",
-                "videoSrc": "null",
-                "materials": []
               }
             ]
           }
@@ -308,13 +298,6 @@ var courses = [
     "title": "HSC 27 Botany full",
     "description": "bozz cath is a very good teacher",
     "thumbnail": "https://asifsirpacemaker.com/media/course/thumbnail/Copy_of_English_Solution_-_Short_Video_20251113_104351_0000.png",
-    "content": []
-  },
-  {
-    "id": "new1772559174874",
-    "title": "Inspirational Course",
-    "description": "Bhuton chiki",
-    "thumbnail": "css/assets/thumbnail.png",
     "content": []
   }
 ]
