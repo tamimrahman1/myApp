@@ -113,6 +113,16 @@ var courses=[
                                 thumbnail:'css/assets/thumbnail.png',
                                 videoSrc:'https://www.youtube.com/embed/p_9gmkIbKQw?autoplay=0',
                                 materials:[]
+                            },
+                            {
+                                type:'video',
+                                title:'Lecture 2',
+                                description:'Grasshopper Part 2',
+                                author:'Asif Jafar',
+                                date:'25.02.2026',
+                                thumbnail:'css/assets/thumbnail.png',
+                                videoSrc:'https://www.youtube.com/embed/is1kPPY-ixU?autoplay=0',
+                                materials:[]
                             }
                         ]
                     }
@@ -178,7 +188,28 @@ var courses=[
                         title:'Chapter 2',
                         description:'Qualitative Chemistry',
                         thumbnail:'css/assets/thumbnail.png',
-                        content:[]
+                        content:[
+                            {
+                                type:'video',
+                                title:'Lecture 1',
+                                description:'',
+                                author:'Unknown',
+                                date:'28.02.2026',
+                                thumbnail:'css/assets/thumbnail.png',
+                                videoSrc:'https://www.youtube.com/embed/KHnnhVy3U9k?autoplay=0',
+                                materials:[]
+                            },
+                            {
+                                type:'video',
+                                title:'Lecture 2',
+                                description:'',
+                                author:'Unknown',
+                                date:'28.02.2026',
+                                thumbnail:'css/assets/thumbnail.png',
+                                videoSrc:'https://www.youtube.com/embed/bT-p9bpn0hU?autoplay=0',
+                                materials:[]
+                            }
+                        ]
                     }
                 ]
             },
