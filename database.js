@@ -309,5 +309,12 @@ var courses = [
     "description": "bozz cath is a very good teacher",
     "thumbnail": "https://asifsirpacemaker.com/media/course/thumbnail/Copy_of_English_Solution_-_Short_Video_20251113_104351_0000.png",
     "content": []
+  },
+  {
+    "id": "new1772559174874",
+    "title": "Inspirational Course",
+    "description": "Bhuton chiki",
+    "thumbnail": "css/assets/thumbnail.png",
+    "content": []
   }
 ]
