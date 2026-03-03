@@ -6,16 +6,6 @@ var courses = [
     "thumbnail": "https://asifsirpacemaker.com/media/course/thumbnail/WhatsApp_Image_2025-12-30_at_1.09.17_PM.jpeg",
     "content": [
       {
-        "type": "video",
-        "title": "Introductory",
-        "description": "Description",
-        "author": "Asif Jafar",
-        "date": "12.12.2025",
-        "thumbnail": "css/assets/thumbnail.png",
-        "videoSrc": "null",
-        "materials": []
-      },
-      {
         "type": "folder",
         "title": "Biology 1st Paper",
         "description": "All 12 chapters of botany by Asif Jafar sir.",
