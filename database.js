@@ -7,6 +7,13 @@ var courses = [
     "content": [
       {
         "type": "folder",
+        "title": "Guidelines",
+        "description": "Guideline videos for medical aspirants",
+        "thumbnail": "css/assets/thumbnail.png",
+        "content": []
+      },
+      {
+        "type": "folder",
         "title": "Biology 1st Paper",
         "description": "All 12 chapters of botany by Asif Jafar sir.",
         "thumbnail": "css/assets/thumbnail.png",
