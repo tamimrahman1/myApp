@@ -283,6 +283,13 @@ var courses = [
             "materials": []
           }
         ]
+      },
+      {
+        "type": "folder",
+        "title": "General Knowledge",
+        "description": "",
+        "thumbnail": "css/assets/thumbnail.png",
+        "content": []
       }
     ]
   },
