@@ -275,7 +275,7 @@ var courses = [
           {
             "type": "video",
             "title": "Lecture 1",
-            "description": "",
+            "description": "Basic Class | English",
             "author": "Hannan Sir",
             "date": "12.02.2026",
             "thumbnail": "css/assets/thumbnail.png",
