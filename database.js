@@ -293,7 +293,7 @@ var courses = [
       },
       {
         "type": "folder",
-        "title": "General Knowledge",
+        "title": "General Knowledge & Moral Qualities",
         "description": "",
         "thumbnail": "css/assets/thumbnail.png",
         "content": []
