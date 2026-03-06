@@ -78,6 +78,24 @@ var courses = [
                 ]
               }
             ]
+          },
+          {
+            "type": "folder",
+            "title": "Chapter 4",
+            "description": "Micro-Organism",
+            "thumbnail": "css/assets/thumbnail.png",
+            "content": [
+              {
+                "type": "video",
+                "title": "Lecture 1",
+                "description": "",
+                "author": "Asif Jafar",
+                "date": "06.03.2026",
+                "thumbnail": "css/assets/thumbnail.png",
+                "videoSrc": "https://www.youtube.com/embed/fqP_vl--hnU?autoplay=0&controls=0",
+                "materials": []
+              }
+            ]
           }
         ]
       },
