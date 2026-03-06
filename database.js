@@ -130,6 +130,16 @@ var courses = [
                 "thumbnail": "css/assets/thumbnail.png",
                 "videoSrc": "https://www.youtube.com/embed/is1kPPY-ixU?autoplay=0",
                 "materials": []
+              },
+              {
+                "type": "video",
+                "title": "Lecture 3",
+                "description": "Ruhi Fish full",
+                "author": "Asif Jafar",
+                "date": "04.03.2026",
+                "thumbnail": "css/assets/thumbnail.png",
+                "videoSrc": "https://www.youtube.com/embed/znW4R89ZoLk?autoplay=0&controls=0",
+                "materials": []
               }
             ]
           }
