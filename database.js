@@ -216,6 +216,34 @@ var courses = [
                 "materials": []
               }
             ]
+          },
+          {
+            "type": "folder",
+            "title": "Chapter 3",
+            "description": "Current",
+            "thumbnail": "css/assets/thumbnail.png",
+            "content": [
+              {
+                "type": "video",
+                "title": "Lecture 1 | Part 1",
+                "description": "",
+                "author": "Abid Jafar",
+                "date": "07.03.2026",
+                "thumbnail": "css/assets/thumbnail.png",
+                "videoSrc": "https://www.youtube.com/embed/-jGuiaXxcNU?autoplay=0",
+                "materials": []
+              },
+              {
+                "type": "video",
+                "title": "Lecture 1 | Part 2",
+                "description": "",
+                "author": "Abid Jafar",
+                "date": "07.03.2026",
+                "thumbnail": "css/assets/thumbnail.png",
+                "videoSrc": "https://www.youtube.com/embed/u6idhjYhGQU?autoplay=0",
+                "materials": []
+              }
+            ]
           }
         ]
       },
