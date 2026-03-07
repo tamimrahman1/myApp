@@ -244,6 +244,13 @@ var courses = [
                 "materials": []
               }
             ]
+          },
+          {
+            "type": "folder",
+            "title": "Chapter 4",
+            "description": "Coming Soon",
+            "thumbnail": "css/assets/thumbnail.png",
+            "content": []
           }
         ]
       },
