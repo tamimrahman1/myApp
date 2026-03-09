@@ -248,7 +248,7 @@ var courses = [
           {
             "type": "folder",
             "title": "Chapter 4",
-            "description": "Coming Soon",
+            "description": "Magnetism",
             "thumbnail": "css/assets/thumbnail.png",
             "content": [
               {
