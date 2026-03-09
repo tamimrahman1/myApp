@@ -250,7 +250,18 @@ var courses = [
             "title": "Chapter 4",
             "description": "Coming Soon",
             "thumbnail": "css/assets/thumbnail.png",
-            "content": []
+            "content": [
+              {
+                "type": "video",
+                "title": "Lecture 1",
+                "description": "",
+                "author": "Abid Jafar",
+                "date": "09.03.2026",
+                "thumbnail": "css/assets/thumbnail.png",
+                "videoSrc": "https://www.youtube.com/embed/HNAh6D-7syk?autoplay=0",
+                "materials": []
+              }
+            ]
           }
         ]
       },
