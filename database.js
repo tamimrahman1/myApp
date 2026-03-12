@@ -405,6 +405,16 @@ var courses = [
                     "src": "https://drive.google.com/file/d/1TqMjE9E69l_swhOtxhxRDAEgI14h32lc/preview"
                   }
                 ]
+              },
+              {
+                "type": "video",
+                "title": "Database Management System 2",
+                "description": "",
+                "author": "Dipit Shaha",
+                "date": "12.03.2026",
+                "thumbnail": "https://frb.aparsclassroom.com/_next/image?url=https%3A%2F%2Fapars.b-cdn.net%2Fvarsity%2Ffile-1764878996314-158305276.jpg&w=1920&q=75",
+                "videoSrc": "https://iframe.mediadelivery.net/embed/610687/7525b8f3-7169-4ced-8201-231018c9ed5a?autoplay=true",
+                "materials": []
               }
             ]
           }
