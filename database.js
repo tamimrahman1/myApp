@@ -393,7 +393,7 @@ var courses = [
             "content": [
               {
                 "type": "video",
-                "title": "à¦¡à¦¾à¦à¦¾à¦¬à§à¦ à¦®à§à¦¯à¦¾à¦¨à§à¦à¦®à§à¦¨à§à¦ à¦¸à¦¿à¦¸à§à¦à§à¦®-à§¦à§§",
+                "title": "Database Management System 1",
                 "description": "",
                 "author": "Dipit Shaha",
                 "date": "12.03.2026",
