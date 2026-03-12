@@ -390,7 +390,18 @@ var courses = [
             "title": "Chapter 6",
             "description": "Database Management System",
             "thumbnail": "https://frb.aparsclassroom.com/_next/image?url=https%3A%2F%2Fapars.b-cdn.net%2Fvarsity%2Ffile-1762778184056-998780058.jpg&w=1920&q=75",
-            "content": []
+            "content": [
+              {
+                "type": "video",
+                "title": "ডাটাবেজ ম্যানেজমেন্ট সিস্টেম-০১",
+                "description": "",
+                "author": "Dipit Shaha",
+                "date": "12.03.2026",
+                "thumbnail": "https://frb.aparsclassroom.com/_next/image?url=https%3A%2F%2Fapars.b-cdn.net%2Fvarsity%2Ffile-1764820692985-590312080.jpg&w=1920&q=75",
+                "videoSrc": "https://iframe.mediadelivery.net/embed/610687/f6a5d895-be6f-4ed1-bc20-1e08557d56cd?autoplay=true",
+                "materials": []
+              }
+            ]
           }
         ]
       }
