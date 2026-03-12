@@ -378,7 +378,15 @@ var courses = [
     "title": "Final Revision Batch | ACS",
     "description": "FRB for HSC 26 | Apars Classroom",
     "thumbnail": "https://frb.aparsclassroom.com/_next/image?url=https%3A%2F%2Fapars.b-cdn.net%2Fvarsity%2Ffile-1768888447943-542919277.jpg&w=828&q=75",
-    "content": []
+    "content": [
+      {
+        "type": "folder",
+        "title": "ICT",
+        "description": "",
+        "thumbnail": "https://frb.aparsclassroom.com/_next/image?url=https%3A%2F%2Fapars.b-cdn.net%2Fvarsity%2Ffile-1772255063681-728599188.jpg&w=1920&q=75",
+        "content": []
+      }
+    ]
   },
   {
     "id": "12001",
