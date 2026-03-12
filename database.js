@@ -384,7 +384,15 @@ var courses = [
         "title": "ICT",
         "description": "",
         "thumbnail": "https://frb.aparsclassroom.com/_next/image?url=https%3A%2F%2Fapars.b-cdn.net%2Fvarsity%2Ffile-1772255063681-728599188.jpg&w=1920&q=75",
-        "content": []
+        "content": [
+          {
+            "type": "folder",
+            "title": "Chapter 6",
+            "description": "Database Management System",
+            "thumbnail": "https://frb.aparsclassroom.com/_next/image?url=https%3A%2F%2Fapars.b-cdn.net%2Fvarsity%2Ffile-1762778184056-998780058.jpg&w=1920&q=75",
+            "content": []
+          }
+        ]
       }
     ]
   },
