@@ -393,13 +393,18 @@ var courses = [
             "content": [
               {
                 "type": "video",
-                "title": "ডাটাবেজ ম্যানেজমেন্ট সিস্টেম-০১",
+                "title": "à¦¡à¦¾à¦à¦¾à¦¬à§à¦ à¦®à§à¦¯à¦¾à¦¨à§à¦à¦®à§à¦¨à§à¦ à¦¸à¦¿à¦¸à§à¦à§à¦®-à§¦à§§",
                 "description": "",
                 "author": "Dipit Shaha",
                 "date": "12.03.2026",
                 "thumbnail": "https://frb.aparsclassroom.com/_next/image?url=https%3A%2F%2Fapars.b-cdn.net%2Fvarsity%2Ffile-1764820692985-590312080.jpg&w=1920&q=75",
                 "videoSrc": "https://iframe.mediadelivery.net/embed/610687/f6a5d895-be6f-4ed1-bc20-1e08557d56cd?autoplay=true",
-                "materials": []
+                "materials": [
+                  {
+                    "label": "Lecture Sheet",
+                    "src": "https://drive.google.com/file/d/1TqMjE9E69l_swhOtxhxRDAEgI14h32lc/preview"
+                  }
+                ]
               }
             ]
           }
