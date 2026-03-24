@@ -298,6 +298,13 @@ var courses = [
                 "materials": []
               }
             ]
+          },
+          {
+            "type": "folder",
+            "title": "Chapter 3",
+            "description": "Periodic Properties and Bonding in Elements",
+            "thumbnail": "css/thumbnail.png",
+            "content": []
           }
         ]
       },
