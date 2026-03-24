@@ -341,7 +341,7 @@ var courses = [
             "type": "folder",
             "title": "Chapter 4",
             "description": "Chemical Change",
-            "thumbnail": "css/thumbnail.png",
+            "thumbnail": "css/assets/thumbnail.png",
             "content": [
               {
                 "type": "video",
