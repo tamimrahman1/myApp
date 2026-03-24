@@ -304,7 +304,18 @@ var courses = [
             "title": "Chapter 3",
             "description": "Periodic Properties and Bonding in Elements",
             "thumbnail": "css/thumbnail.png",
-            "content": []
+            "content": [
+              {
+                "type": "video",
+                "title": "Lecture 1",
+                "description": "",
+                "author": "Fardin",
+                "date": "24.03.2026",
+                "thumbnail": "css/thumbnail.png",
+                "videoSrc": "https://www.youtube.com/embed/XjK9TxTpq30?autoplay=0",
+                "materials": []
+              }
+            ]
           }
         ]
       },
