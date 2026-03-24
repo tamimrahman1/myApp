@@ -331,7 +331,7 @@ var courses = [
                 "description": "",
                 "author": "Fardin",
                 "date": "24.03.2026",
-                "thumbnail": "css/thumbnail.png",
+                "thumbnail": "css/assets/thumbnail.png",
                 "videoSrc": "https://www.youtube.com/embed/XjK9TxTpq30?autoplay=0",
                 "materials": []
               }
