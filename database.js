@@ -236,7 +236,12 @@ var courses = [
                 "date": "07.03.2026",
                 "thumbnail": "css/assets/thumbnail.png",
                 "videoSrc": "https://www.youtube.com/embed/-jGuiaXxcNU?autoplay=0",
-                "materials": []
+                "materials": [
+                  {
+                    "label": "Lecture Sheet",
+                    "src": "https://drive.google.com/file/d/11Dx6oQhCiwuvKup-8IiZ4ZDyXcn_tuxd/preview"
+                  }
+                ]
               },
               {
                 "type": "video",
