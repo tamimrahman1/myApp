@@ -322,7 +322,18 @@ var courses = [
             "title": "Chapter 4",
             "description": "Chemical Change",
             "thumbnail": "css/thumbnail.png",
-            "content": []
+            "content": [
+              {
+                "type": "video",
+                "title": "Lecture 1",
+                "description": "",
+                "author": "Fardin",
+                "date": "24.03.2026",
+                "thumbnail": "css.thumbnail.png",
+                "videoSrc": "https://www.youtube.com/embed/uSdaWadnB8g?autoplay=0",
+                "materials": []
+              }
+            ]
           }
         ]
       },
