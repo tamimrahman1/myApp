@@ -316,6 +316,13 @@ var courses = [
                 "materials": []
               }
             ]
+          },
+          {
+            "type": "folder",
+            "title": "Chapter 4",
+            "description": "Chemical Change",
+            "thumbnail": "css/thumbnail.png",
+            "content": []
           }
         ]
       },
