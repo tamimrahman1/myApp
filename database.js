@@ -323,7 +323,7 @@ var courses = [
             "type": "folder",
             "title": "Chapter 3",
             "description": "Periodic Properties and Bonding in Elements",
-            "thumbnail": "css/thumbnail.png",
+            "thumbnail": "css/assets/thumbnail.png",
             "content": [
               {
                 "type": "video",
