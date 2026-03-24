@@ -213,7 +213,12 @@ var courses = [
                 "date": "21.02.2026",
                 "thumbnail": "css/assets/thumbnail.png",
                 "videoSrc": "https://www.youtube.com/embed/0XWtVP4tyaQ?autoplay=0",
-                "materials": []
+                "materials": [
+                  {
+                    "label": "Lecture Sheet",
+                    "src": "https://drive.google.com/file/d/1Kd9rXB9aL6_0MSh5qxPw3oaVgFUHte0e/preview"
+                  }
+                ]
               }
             ]
           },
